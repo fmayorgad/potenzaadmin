@@ -27,6 +27,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
-# siggasac-frontend
-SiggaSAC frontend proyect
+# POTENZA ADMIN 
+Frontend Potenza admin project
 >>>>>>> c6a77c3d30671dac164d29c9a92f5e5955300ae5
